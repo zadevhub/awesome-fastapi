@@ -306,6 +306,7 @@ Compute:
 - [Bali](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 - [Bunnybook](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak.
+- [Dify](https://github.com/langgenius/dify) - Open-source LLM app development platform with visual workflow builder, RAG pipeline, agent orchestration, and API serving powered by FastAPI.
 - [Dispatch](https://github.com/Netflix/dispatch) - Manage security incidents.
 - FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
@@ -314,9 +315,11 @@ Compute:
 - [DogeAPI](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
 - [FastAPI Websocket Broadcast](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+- [FastStream](https://github.com/ag2ai/faststream/tree/main) - Framework for building async message-driven microservices with Kafka, RabbitMQ, NATS, and Redis, inspired by FastAPI's developer experience.
 - [FuturamaAPI](https://github.com/koldakov/futuramaapi) - A REST and GraphQL playground built with best practices, providing WebSockets, SSE, callbacks, secret messages, and more.
 - [JeffQL](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
+- [Langflow](https://github.com/langflow-ai/langflow) - Low-code platform for building and deploying AI-powered agents and workflows, with a FastAPI backend serving all flows as APIs.
 - [Mailer](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
 - [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
 - [Nemo](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
